@@ -5,6 +5,19 @@ This repository demonstrates how to build intelligent REST API Based Agent using
 📖 **Complete Guide**: For detailed explanations and a full code walkthrough, read our comprehensive tutorial.<br>
 👉 [**Embabel Framework: Build a REST API Based AI Agent**](https://bootcamptoprod.com/embabel-framework-rest-api-agent/)
 
+🎥 **Video Tutorial**: Prefer hands-on learning? Watch our step-by-step implementation guide.<br>
+👉 YouTube Tutorial - [**Build REST API Based AI Agents using Embabel Framework 🚀**](https://youtu.be/CZCLuGRL6pg)
+
+<p align="center">
+  <a href="https://youtu.be/CZCLuGRL6pg">
+    <img src="https://img.youtube.com/vi/CZCLuGRL6pg/0.jpg" alt="Build REST API Based AI Agents using Embabel Framework" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://youtu.be/CZCLuGRL6pg">Watch on YouTube</a>
+</p>
+
 ---
 
 ## ✨ What This Project Demonstrates
